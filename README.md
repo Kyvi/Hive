@@ -8,8 +8,8 @@ Pour lancer le jeu, il suffit de télécharger le projet et de lancer les exécu
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Use shift key to move the spacecraft.
 Developed on Unity, this is the final video game project done with 5 people in 2017.
 It's a space exloration game where the player must complete missions by collecting minerals with a spacecraft he controls.
 
+Use shift key to move the spacecraft.
 To launch the game, download the project, and launch MacOSX or Windows launcher.
