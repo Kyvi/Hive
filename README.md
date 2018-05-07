@@ -1,4 +1,4 @@
-#HIVE
+# HIVE
 
 Réalisé sur Unity, Ceci est le projet final de jeu vidéo réalisé à 5 début 2017.
 C'est un jeu d'exploration spatiale où le joueur doit remplir des missions en collectant des minéraux à l'aide d'un vaisseau spatial qu'il contrôle.
